@@ -9,6 +9,6 @@ The data we're using is from Kaggle's dog breed identification competition.
 https://www.kaggle.com/c/dog-breed-identification/data
 
 ## Features
-I'm using a deep learning/ transfer learning model as we are dealing with images
-There are 120 unique breeds of dog to classify the image
+I'm using a deep learning/ transfer learning model as we are dealing with images<br>
+There are 120 unique breeds of dog to classify the image<br>
 There are around 10,000+ images in training set
